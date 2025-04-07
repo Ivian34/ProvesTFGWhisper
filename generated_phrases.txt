@@ -1,0 +1,1000 @@
+Si us plau, La caixa, deixa-la i La bola, deixa-la!	deixar,caixa,deixar,pilota
+Si us plau, solta la capsa i tira-la!	deixar,caixa,llençar,caixa
+La capsa, allibera-la i La esfera, allibera-la.	deixar,caixa,deixar,pilota
+La bola, allibera-la i La caixa, agafa-la!	deixar,pilota,agafar,caixa
+Pots tira la caixa?	llençar,caixa
+prens la capsa, si us plau?	agafar,caixa
+La caixa, recull-la i La pilota, solta-la, si us plau.	agafar,caixa,deixar,pilota
+Podries llençar el contenidor i agafar la bola, si us plau?	llençar,caixa,agafar,pilota
+La contenidor, deixa-la i La esfera, deixa-la, si us plau.	deixar,caixa,deixar,pilota
+llences la esfera?	llençar,pilota
+llença la caixa, si us plau!	llençar,caixa
+llença el contenidor i allibera la esfera!	llençar,caixa,deixar,pilota
+llança la pilota!	llençar,pilota
+solta la esfera i pren-la sobre la taula.	deixar,pilota,agafar,pilota
+allibera la pilota i recull-la.	deixar,pilota,agafar,pilota
+La esfera, allibera-la i La caixa, allibera-la!	deixar,pilota,deixar,caixa
+recull la caixa i solta-la a terra!	agafar,caixa,deixar,caixa
+tira el contenidor i pren-la a terra!	llençar,caixa,agafar,caixa
+agafa la capsa i deixa-la a terra.	agafar,caixa,deixar,caixa
+reculls el contenidor i soltes la esfera?	agafar,caixa,deixar,pilota
+llança el contenidor i allibera-la sobre la taula, si us plau!	llençar,caixa,deixar,caixa
+Si us plau, llença la caixa i allibera la bola.	llençar,caixa,deixar,pilota
+La bola, deixa-la i La caixa, pren-la!	deixar,pilota,agafar,caixa
+Si us plau, recull la pilota i solta-la sobre la taula.	agafar,pilota,deixar,pilota
+solta la bola i recull-la.	deixar,pilota,agafar,pilota
+Si us plau, recull la bola!	agafar,pilota
+Podries agafar la pilota i llençar la capsa?	agafar,pilota,llençar,caixa
+La bola, tira-la i La caixa, allibera-la.	llençar,pilota,deixar,caixa
+Pots recollir la bola?	agafar,pilota
+deixa la caixa i llença la bola a terra!	deixar,caixa,llençar,pilota
+Si us plau, solta el contenidor!	deixar,caixa
+La esfera, agafa-la i La contenidor, solta-la!	agafar,pilota,deixar,caixa
+allibera la bola.	deixar,pilota
+La capsa, llença-la i La pilota, allibera-la.	llençar,caixa,deixar,pilota
+Si us plau, Podries tira la capsa i agafar la pilota?	llençar,caixa,agafar,pilota
+solta la esfera i agafa la capsa sobre la taula, si us plau!	deixar,pilota,agafar,caixa
+La esfera, recull-la i La capsa, llança-la!	agafar,pilota,llençar,caixa
+Pots prendre la pilota, si us plau?	agafar,pilota
+La contenidor, llança-la i La pilota, recull-la, si us plau.	llençar,caixa,agafar,pilota
+agafes la bola, si us plau?	agafar,pilota
+La contenidor, deixa-la i La pilota, llança-la.	deixar,caixa,llençar,pilota
+llança la capsa.	llençar,caixa
+Si us plau, Pots deixar la capsa?	deixar,caixa
+La contenidor, llança-la i La esfera, llança-la!	llençar,caixa,llençar,pilota
+Si us plau, llença la capsa.	llençar,caixa
+allibera la caixa.	deixar,caixa
+llança la esfera i pren la capsa sobre la taula!	llençar,pilota,agafar,caixa
+tira la esfera i pren la caixa, si us plau!	llençar,pilota,agafar,caixa
+Si us plau, Pots allibera la caixa i recollir la pilota?	deixar,caixa,agafar,pilota
+llença la esfera i recull-la!	llençar,pilota,agafar,pilota
+La contenidor, allibera-la i La esfera, allibera-la, si us plau!	deixar,caixa,deixar,pilota
+Pots llençar la bola i deixar la capsa?	llençar,pilota,deixar,caixa
+alliberes la bola, si us plau?	deixar,pilota
+allibera la bola a terra i agafa la capsa!	deixar,pilota,agafar,caixa
+pren la capsa i tira-la sobre la taula!	agafar,caixa,llençar,caixa
+tira la pilota i solta-la a terra.	llençar,pilota,deixar,pilota
+llença la esfera a terra i pren la caixa!	llençar,pilota,agafar,caixa
+La contenidor, llença-la i La bola, llença-la!	llençar,caixa,llençar,pilota
+Si us plau, recull la esfera i llença-la.	agafar,pilota,llençar,pilota
+allibera la esfera i llança la caixa sobre la taula, si us plau.	deixar,pilota,llençar,caixa
+Pots tira la capsa i allibera la esfera?	llençar,caixa,deixar,pilota
+llança la pilota i pren el contenidor sobre la taula, si us plau!	llençar,pilota,agafar,caixa
+agafa la caixa i tira-la!	agafar,caixa,llençar,caixa
+La caixa, deixa-la i La esfera, deixa-la!	deixar,caixa,deixar,pilota
+La capsa, recull-la i La bola, deixa-la.	agafar,caixa,deixar,pilota
+allibera la caixa i pren la pilota!	deixar,caixa,agafar,pilota
+deixa la pilota i tira-la a terra, si us plau.	deixar,pilota,llençar,pilota
+agafa la pilota i solta-la, si us plau.	agafar,pilota,deixar,pilota
+solta la caixa i llença-la!	deixar,caixa,llençar,caixa
+Pots agafar la capsa, si us plau?	agafar,caixa
+Si us plau, Podries llança la capsa i deixar la esfera?	llençar,caixa,deixar,pilota
+Si us plau, solta la esfera a terra i tira el contenidor.	deixar,pilota,llençar,caixa
+agafa la capsa.	agafar,caixa
+llença la caixa sobre la taula i solta la pilota, si us plau.	llençar,caixa,deixar,pilota
+llença la caixa i deixa la pilota a terra!	llençar,caixa,deixar,pilota
+La bola, llença-la i La contenidor, llença-la.	llençar,pilota,llençar,caixa
+Si us plau, Podries llençar la bola i agafar la caixa?	llençar,pilota,agafar,caixa
+solta la capsa i recull la esfera, si us plau.	deixar,caixa,agafar,pilota
+tira el contenidor.	llençar,caixa
+La pilota, allibera-la i La contenidor, allibera-la!	deixar,pilota,deixar,caixa
+tíres la esfera?	llençar,pilota
+La caixa, llença-la i La bola, agafa-la.	llençar,caixa,agafar,pilota
+recull la caixa!	agafar,caixa
+Si us plau, tira la bola i pren la capsa a terra.	llençar,pilota,agafar,caixa
+solta la bola i agafa-la.	deixar,pilota,agafar,pilota
+llença la pilota.	llençar,pilota
+Si us plau, allibera el contenidor i pren-la!	deixar,caixa,agafar,caixa
+Si us plau, deixa la bola.	deixar,pilota
+soltes la capsa?	deixar,caixa
+Podries llençar la capsa?	llençar,caixa
+recull la caixa i llança-la sobre la taula.	agafar,caixa,llençar,caixa
+llença la esfera i pren-la!	llençar,pilota,agafar,pilota
+pren el contenidor.	agafar,caixa
+pren el contenidor i llança-la.	agafar,caixa,llençar,caixa
+recull la capsa i llança-la, si us plau!	agafar,caixa,llençar,caixa
+recull la pilota.	agafar,pilota
+Pots solta el contenidor i prendre la esfera, si us plau?	deixar,caixa,agafar,pilota
+llança la caixa.	llençar,caixa
+Podries llança la pilota?	llençar,pilota
+llença la capsa!	llençar,caixa
+agafa la caixa i deixa-la a terra.	agafar,caixa,deixar,caixa
+Podries recollir la caixa i tira la pilota?	agafar,caixa,llençar,pilota
+allibera el contenidor i llança la pilota a terra.	deixar,caixa,llençar,pilota
+Si us plau, allibera la pilota i agafa-la sobre la taula.	deixar,pilota,agafar,pilota
+tira la capsa i solta la bola!	llençar,caixa,deixar,pilota
+pren la bola i llança el contenidor, si us plau!	agafar,pilota,llençar,caixa
+allibera la esfera i llença-la sobre la taula.	deixar,pilota,llençar,pilota
+deixa la esfera i tira la caixa.	deixar,pilota,llençar,caixa
+Si us plau, llença la capsa i recull-la sobre la taula.	llençar,caixa,agafar,caixa
+deixa la esfera i tira-la.	deixar,pilota,llençar,pilota
+solta la esfera i pren-la a terra!	deixar,pilota,agafar,pilota
+Si us plau, llança la esfera i solta la caixa sobre la taula.	llençar,pilota,deixar,caixa
+deixa la caixa i agafa la pilota a terra.	deixar,caixa,agafar,pilota
+deixa la pilota a terra i tira el contenidor, si us plau!	deixar,pilota,llençar,caixa
+pren la pilota i allibera-la a terra!	agafar,pilota,deixar,pilota
+tira la bola.	llençar,pilota
+deixa el contenidor.	deixar,caixa
+agafa el contenidor!	agafar,caixa
+La bola, tira-la i La contenidor, pren-la!	llençar,pilota,agafar,caixa
+Si us plau, La esfera, solta-la i La caixa, solta-la!	deixar,pilota,deixar,caixa
+La pilota, recull-la i La caixa, recull-la.	agafar,pilota,agafar,caixa
+Pots llança la esfera?	llençar,pilota
+llança la bola, si us plau.	llençar,pilota
+La bola, agafa-la i La contenidor, llança-la.	agafar,pilota,llençar,caixa
+allibera la bola i agafa-la!	deixar,pilota,agafar,pilota
+allibera el contenidor!	deixar,caixa
+Si us plau, llança la bola i agafa-la.	llençar,pilota,agafar,pilota
+pren la pilota sobre la taula i tira el contenidor!	agafar,pilota,llençar,caixa
+llença la caixa i recull-la a terra!	llençar,caixa,agafar,caixa
+La pilota, recull-la i La contenidor, recull-la!	agafar,pilota,agafar,caixa
+Si us plau, recull la pilota i deixa-la a terra.	agafar,pilota,deixar,pilota
+Si us plau, pren la capsa i tira la esfera!	agafar,caixa,llençar,pilota
+La esfera, agafa-la i La caixa, solta-la.	agafar,pilota,deixar,caixa
+Pots agafar el contenidor, si us plau?	agafar,caixa
+pren la bola i allibera el contenidor a terra!	agafar,pilota,deixar,caixa
+Si us plau, solta la capsa i pren la esfera sobre la taula.	deixar,caixa,agafar,pilota
+agafes la bola i alliberes la caixa?	agafar,pilota,deixar,caixa
+recull el contenidor i allibera la bola sobre la taula!	agafar,caixa,deixar,pilota
+La contenidor, recull-la i La bola, allibera-la.	agafar,caixa,deixar,pilota
+llences la esfera, si us plau?	llençar,pilota
+La esfera, agafa-la i La caixa, allibera-la!	agafar,pilota,deixar,caixa
+Podries deixar la caixa i tira la bola?	deixar,caixa,llençar,pilota
+Si us plau, agafa el contenidor.	agafar,caixa
+recull la pilota i allibera la capsa.	agafar,pilota,deixar,caixa
+deixa la esfera sobre la taula i llança la caixa, si us plau.	deixar,pilota,llençar,caixa
+solta la capsa i llança-la sobre la taula.	deixar,caixa,llençar,caixa
+Si us plau, solta la caixa i llança la pilota sobre la taula.	deixar,caixa,llençar,pilota
+pren el contenidor i deixa la pilota sobre la taula!	agafar,caixa,deixar,pilota
+Pots prendre la capsa i solta la pilota?	agafar,caixa,deixar,pilota
+Si us plau, agafa la capsa i llança la pilota a terra.	agafar,caixa,llençar,pilota
+llença la esfera sobre la taula i recull la capsa!	llençar,pilota,agafar,caixa
+Si us plau, La bola, tira-la i La caixa, pren-la!	llençar,pilota,agafar,caixa
+Si us plau, deixa la bola i llença la caixa!	deixar,pilota,llençar,caixa
+La capsa, pren-la i La esfera, pren-la!	agafar,caixa,agafar,pilota
+La contenidor, agafa-la i La pilota, deixa-la!	agafar,caixa,deixar,pilota
+pren la pilota sobre la taula i tira la caixa.	agafar,pilota,llençar,caixa
+Pots allibera la esfera?	deixar,pilota
+Si us plau, La capsa, llança-la i La esfera, llança-la.	llençar,caixa,llençar,pilota
+Si us plau, allibera la bola a terra i tira el contenidor!	deixar,pilota,llençar,caixa
+Si us plau, La bola, tira-la i La contenidor, tira-la!	llençar,pilota,llençar,caixa
+Si us plau, pren la caixa i tira-la a terra!	agafar,caixa,llençar,caixa
+deixa la esfera i llença la capsa!	deixar,pilota,llençar,caixa
+alliberes la pilota i tíres el contenidor?	deixar,pilota,llençar,caixa
+La pilota, tira-la i La caixa, tira-la, si us plau!	llençar,pilota,llençar,caixa
+solta la caixa i agafa-la a terra!	deixar,caixa,agafar,caixa
+allibera el contenidor a terra i tira la pilota!	deixar,caixa,llençar,pilota
+reculls el contenidor?	agafar,caixa
+allibera la pilota.	deixar,pilota
+agafa el contenidor i llança la bola.	agafar,caixa,llençar,pilota
+llança el contenidor!	llençar,caixa
+La capsa, recull-la i La esfera, solta-la.	agafar,caixa,deixar,pilota
+deixa la caixa i recull-la a terra.	deixar,caixa,agafar,caixa
+deixa el contenidor i agafa la esfera sobre la taula, si us plau!	deixar,caixa,agafar,pilota
+tira la esfera i agafa-la sobre la taula!	llençar,pilota,agafar,pilota
+Si us plau, llença la bola.	llençar,pilota
+allibera el contenidor i pren la pilota sobre la taula.	deixar,caixa,agafar,pilota
+Si us plau, pren la caixa i solta-la a terra!	agafar,caixa,deixar,caixa
+agafa la bola i allibera el contenidor sobre la taula!	agafar,pilota,deixar,caixa
+llença la pilota i allibera-la a terra.	llençar,pilota,deixar,pilota
+solta la pilota i llança el contenidor a terra.	deixar,pilota,llençar,caixa
+agafes la esfera i soltes la capsa, si us plau?	agafar,pilota,deixar,caixa
+Si us plau, llença la capsa a terra i recull la bola!	llençar,caixa,agafar,pilota
+Si us plau, pren la caixa i tira la bola a terra.	agafar,caixa,llençar,pilota
+llança el contenidor a terra i recull la esfera, si us plau!	llençar,caixa,agafar,pilota
+agafa la pilota.	agafar,pilota
+allibera la capsa!	deixar,caixa
+llença la bola i recull-la a terra.	llençar,pilota,agafar,pilota
+agafa la pilota i solta la capsa.	agafar,pilota,deixar,caixa
+La pilota, agafa-la i La caixa, llença-la!	agafar,pilota,llençar,caixa
+deixa el contenidor i llença-la a terra, si us plau.	deixar,caixa,llençar,caixa
+allibera la esfera.	deixar,pilota
+llença la esfera i solta la caixa!	llençar,pilota,deixar,caixa
+Si us plau, solta la capsa i pren la bola.	deixar,caixa,agafar,pilota
+recull la esfera i allibera-la.	agafar,pilota,deixar,pilota
+llença el contenidor sobre la taula i recull la esfera.	llençar,caixa,agafar,pilota
+agafa la pilota i allibera la capsa.	agafar,pilota,deixar,caixa
+solta la esfera, si us plau.	deixar,pilota
+recull la pilota i tira-la a terra.	agafar,pilota,llençar,pilota
+La capsa, deixa-la i La esfera, deixa-la!	deixar,caixa,deixar,pilota
+La pilota, llança-la i La caixa, llança-la!	llençar,pilota,llençar,caixa
+solta el contenidor, si us plau!	deixar,caixa
+tira la caixa i deixa-la a terra!	llençar,caixa,deixar,caixa
+agafa el contenidor i allibera-la!	agafar,caixa,deixar,caixa
+deixa la bola i tira-la, si us plau!	deixar,pilota,llençar,pilota
+deixa la pilota.	deixar,pilota
+allibera la pilota a terra i agafa la capsa.	deixar,pilota,agafar,caixa
+agafa la esfera i solta-la a terra!	agafar,pilota,deixar,pilota
+La contenidor, agafa-la i La esfera, agafa-la.	agafar,caixa,agafar,pilota
+pren la esfera i llença la capsa a terra!	agafar,pilota,llençar,caixa
+solta la caixa i llança la esfera a terra.	deixar,caixa,llençar,pilota
+pren la capsa.	agafar,caixa
+La capsa, llença-la i La bola, solta-la!	llençar,caixa,deixar,pilota
+Si us plau, llança la caixa i recull-la sobre la taula.	llençar,caixa,agafar,caixa
+soltes la capsa i llences la esfera?	deixar,caixa,llençar,pilota
+tira la capsa i recull-la sobre la taula!	llençar,caixa,agafar,caixa
+tira la capsa!	llençar,caixa
+deixa la caixa, si us plau.	deixar,caixa
+Si us plau, llença la bola i solta-la sobre la taula!	llençar,pilota,deixar,pilota
+soltes la capsa i agafes la bola?	deixar,caixa,agafar,pilota
+deixa la pilota i recull la capsa sobre la taula.	deixar,pilota,agafar,caixa
+allibera la esfera i pren-la sobre la taula.	deixar,pilota,agafar,pilota
+Si us plau, llança la capsa i pren la bola.	llençar,caixa,agafar,pilota
+Pots recollir la esfera i solta el contenidor?	agafar,pilota,deixar,caixa
+llança la capsa i deixa la pilota!	llençar,caixa,deixar,pilota
+agafa el contenidor a terra i llença la pilota!	agafar,caixa,llençar,pilota
+deixa el contenidor i pren-la, si us plau!	deixar,caixa,agafar,caixa
+allibera la bola i llença el contenidor a terra!	deixar,pilota,llençar,caixa
+Si us plau, La capsa, solta-la i La esfera, solta-la!	deixar,caixa,deixar,pilota
+agafa la pilota!	agafar,pilota
+La bola, llença-la i La caixa, llença-la!	llençar,pilota,llençar,caixa
+La caixa, allibera-la i La esfera, allibera-la.	deixar,caixa,deixar,pilota
+deixa la caixa i tira-la a terra!	deixar,caixa,llençar,caixa
+Si us plau, deixa la pilota.	deixar,pilota
+tira la pilota i allibera-la!	llençar,pilota,deixar,pilota
+deixa la capsa i pren-la.	deixar,caixa,agafar,caixa
+La caixa, tira-la i La esfera, tira-la!	llençar,caixa,llençar,pilota
+llença la caixa sobre la taula i agafa la bola!	llençar,caixa,agafar,pilota
+Si us plau, pren la caixa sobre la taula i llença la esfera.	agafar,caixa,llençar,pilota
+prens la bola?	agafar,pilota
+deixa la bola.	deixar,pilota
+solta la pilota sobre la taula i recull la capsa!	deixar,pilota,agafar,caixa
+tira la pilota a terra i solta la capsa!	llençar,pilota,deixar,caixa
+solta la caixa.	deixar,caixa
+La caixa, llença-la i La esfera, allibera-la!	llençar,caixa,deixar,pilota
+llença el contenidor.	llençar,caixa
+tira la bola i pren-la.	llençar,pilota,agafar,pilota
+llança la bola i deixa la capsa!	llençar,pilota,deixar,caixa
+llença la bola i pren el contenidor.	llençar,pilota,agafar,caixa
+Si us plau, tira la capsa sobre la taula i solta la bola!	llençar,caixa,deixar,pilota
+La bola, allibera-la i La capsa, tira-la.	deixar,pilota,llençar,caixa
+La capsa, deixa-la i La esfera, deixa-la.	deixar,caixa,deixar,pilota
+allibera la capsa i llança-la sobre la taula!	deixar,caixa,llençar,caixa
+pren la capsa sobre la taula i deixa la pilota!	agafar,caixa,deixar,pilota
+La capsa, allibera-la i La esfera, tira-la!	deixar,caixa,llençar,pilota
+reculls la capsa, si us plau?	agafar,caixa
+Podries llança la pilota, si us plau?	llençar,pilota
+solta la bola i pren la caixa.	deixar,pilota,agafar,caixa
+Si us plau, Pots solta la capsa i tira la esfera?	deixar,caixa,llençar,pilota
+agafa la capsa i deixa-la sobre la taula!	agafar,caixa,deixar,caixa
+soltes la caixa?	deixar,caixa
+Si us plau, La pilota, deixa-la i La caixa, pren-la.	deixar,pilota,agafar,caixa
+La capsa, recull-la i La pilota, recull-la, si us plau.	agafar,caixa,agafar,pilota
+La esfera, tira-la i La capsa, recull-la.	llençar,pilota,agafar,caixa
+solta la esfera i llença la capsa, si us plau.	deixar,pilota,llençar,caixa
+llença la caixa.	llençar,caixa
+La caixa, solta-la i La pilota, solta-la, si us plau!	deixar,caixa,deixar,pilota
+La caixa, llença-la i La esfera, llença-la.	llençar,caixa,llençar,pilota
+recull el contenidor a terra i tira la bola, si us plau.	agafar,caixa,llençar,pilota
+llança la bola i recull-la sobre la taula, si us plau!	llençar,pilota,agafar,pilota
+La esfera, allibera-la i La caixa, llança-la!	deixar,pilota,llençar,caixa
+recull la capsa i deixa-la a terra!	agafar,caixa,deixar,caixa
+tira la caixa i deixa la bola a terra!	llençar,caixa,deixar,pilota
+Si us plau, agafa la esfera a terra i allibera la caixa!	agafar,pilota,deixar,caixa
+La bola, deixa-la i La caixa, deixa-la!	deixar,pilota,deixar,caixa
+agafa la caixa i llança-la!	agafar,caixa,llençar,caixa
+deixa la esfera!	deixar,pilota
+llença la pilota i pren la caixa sobre la taula, si us plau!	llençar,pilota,agafar,caixa
+tira la pilota a terra i deixa la capsa!	llençar,pilota,deixar,caixa
+Si us plau, La pilota, agafa-la i La capsa, agafa-la!	agafar,pilota,agafar,caixa
+llança la pilota i recull la caixa!	llençar,pilota,agafar,caixa
+solta la caixa a terra i llança la bola!	deixar,caixa,llençar,pilota
+Podries solta la capsa i llança la bola?	deixar,caixa,llençar,pilota
+La caixa, tira-la i La pilota, recull-la!	llençar,caixa,agafar,pilota
+La contenidor, solta-la i La pilota, llança-la.	deixar,caixa,llençar,pilota
+tíres la bola?	llençar,pilota
+agafa la bola i deixa-la sobre la taula.	agafar,pilota,deixar,pilota
+La pilota, tira-la i La capsa, tira-la.	llençar,pilota,llençar,caixa
+Si us plau, La capsa, allibera-la i La pilota, recull-la.	deixar,caixa,agafar,pilota
+llança la pilota i pren-la sobre la taula!	llençar,pilota,agafar,pilota
+solta la caixa i agafa-la a terra.	deixar,caixa,agafar,caixa
+La caixa, tira-la i La bola, tira-la!	llençar,caixa,llençar,pilota
+Si us plau, pren la pilota i solta-la a terra!	agafar,pilota,deixar,pilota
+deixa la capsa a terra i llença la esfera.	deixar,caixa,llençar,pilota
+La pilota, deixa-la i La capsa, deixa-la.	deixar,pilota,deixar,caixa
+tira la pilota i pren la caixa a terra!	llençar,pilota,agafar,caixa
+tira la capsa.	llençar,caixa
+La pilota, allibera-la i La caixa, llença-la, si us plau!	deixar,pilota,llençar,caixa
+tira la caixa i solta la esfera a terra, si us plau.	llençar,caixa,deixar,pilota
+agafes la bola i tíres la capsa?	agafar,pilota,llençar,caixa
+pren la caixa i allibera-la.	agafar,caixa,deixar,caixa
+deixa la caixa i recull la esfera!	deixar,caixa,agafar,pilota
+llença el contenidor i recull la pilota!	llençar,caixa,agafar,pilota
+agafa la bola.	agafar,pilota
+La capsa, tira-la i La pilota, tira-la.	llençar,caixa,llençar,pilota
+La pilota, solta-la i La caixa, llança-la!	deixar,pilota,llençar,caixa
+llança la esfera!	llençar,pilota
+deixa la capsa i recull-la sobre la taula!	deixar,caixa,agafar,caixa
+Si us plau, recull la bola i llança el contenidor sobre la taula.	agafar,pilota,llençar,caixa
+Pots llençar el contenidor i agafar la pilota?	llençar,caixa,agafar,pilota
+La contenidor, llança-la i La esfera, llança-la.	llençar,caixa,llençar,pilota
+La bola, pren-la i La capsa, pren-la, si us plau.	agafar,pilota,agafar,caixa
+reculls la esfera?	agafar,pilota
+alliberes la esfera i tíres la caixa?	deixar,pilota,llençar,caixa
+La esfera, allibera-la i La caixa, recull-la, si us plau.	deixar,pilota,agafar,caixa
+Pots deixar el contenidor?	deixar,caixa
+prens la caixa i tíres la pilota?	agafar,caixa,llençar,pilota
+agafa la esfera i llança la caixa a terra, si us plau!	agafar,pilota,llençar,caixa
+deixa la bola i llença-la sobre la taula.	deixar,pilota,llençar,pilota
+reculls el contenidor i tíres la pilota?	agafar,caixa,llençar,pilota
+allibera la pilota i tira-la sobre la taula, si us plau!	deixar,pilota,llençar,pilota
+reculls la esfera i soltes la capsa?	agafar,pilota,deixar,caixa
+allibera la capsa i llança la pilota.	deixar,caixa,llençar,pilota
+La esfera, pren-la i La contenidor, solta-la, si us plau.	agafar,pilota,deixar,caixa
+tira la pilota.	llençar,pilota
+pren el contenidor i allibera la bola!	agafar,caixa,deixar,pilota
+Si us plau, Podries llança el contenidor?	llençar,caixa
+tira la capsa i deixa la bola sobre la taula, si us plau!	llençar,caixa,deixar,pilota
+recull la esfera i tira-la sobre la taula.	agafar,pilota,llençar,pilota
+La esfera, pren-la i La caixa, pren-la!	agafar,pilota,agafar,caixa
+tíres la pilota i alliberes el contenidor, si us plau?	llençar,pilota,deixar,caixa
+alliberes la caixa i llences la esfera?	deixar,caixa,llençar,pilota
+La caixa, deixa-la i La bola, deixa-la.	deixar,caixa,deixar,pilota
+Si us plau, agafa el contenidor i deixa la pilota sobre la taula.	agafar,caixa,deixar,pilota
+Si us plau, pren la capsa i llança la bola a terra.	agafar,caixa,llençar,pilota
+solta la bola i pren la capsa a terra.	deixar,pilota,agafar,caixa
+La esfera, llença-la i La caixa, allibera-la, si us plau!	llençar,pilota,deixar,caixa
+recull la capsa i allibera la esfera sobre la taula.	agafar,caixa,deixar,pilota
+pren la caixa a terra i solta la pilota!	agafar,caixa,deixar,pilota
+allibera la pilota i agafa el contenidor a terra!	deixar,pilota,agafar,caixa
+deixa la esfera.	deixar,pilota
+tira la esfera.	llençar,pilota
+recull la capsa a terra i tira la pilota, si us plau!	agafar,caixa,llençar,pilota
+llença la capsa i solta-la sobre la taula!	llençar,caixa,deixar,caixa
+allibera la capsa i agafa-la sobre la taula!	deixar,caixa,agafar,caixa
+Si us plau, soltes la esfera i llences el contenidor?	deixar,pilota,llençar,caixa
+La bola, tira-la i La contenidor, tira-la.	llençar,pilota,llençar,caixa
+Si us plau, La pilota, tira-la i La contenidor, tira-la.	llençar,pilota,llençar,caixa
+allibera la caixa i pren-la sobre la taula!	deixar,caixa,agafar,caixa
+Podries llençar la bola i deixar el contenidor?	llençar,pilota,deixar,caixa
+La caixa, pren-la i La esfera, pren-la, si us plau!	agafar,caixa,agafar,pilota
+Si us plau, deixa la pilota sobre la taula i llança la caixa!	deixar,pilota,llençar,caixa
+La bola, agafa-la i La caixa, solta-la, si us plau!	agafar,pilota,deixar,caixa
+llença la capsa i solta la esfera.	llençar,caixa,deixar,pilota
+deixa la esfera i agafa la capsa!	deixar,pilota,agafar,caixa
+La esfera, llança-la i La caixa, allibera-la!	llençar,pilota,deixar,caixa
+tira la bola i allibera-la a terra.	llençar,pilota,deixar,pilota
+La capsa, llença-la i La bola, recull-la.	llençar,caixa,agafar,pilota
+Si us plau, La pilota, llança-la i La capsa, llança-la!	llençar,pilota,llençar,caixa
+solta la capsa i recull-la sobre la taula.	deixar,caixa,agafar,caixa
+La pilota, deixa-la i La caixa, recull-la.	deixar,pilota,agafar,caixa
+reculls la pilota i tíres la caixa?	agafar,pilota,llençar,caixa
+La caixa, llença-la i La pilota, deixa-la, si us plau!	llençar,caixa,deixar,pilota
+Si us plau, deixa la bola i llença-la sobre la taula.	deixar,pilota,llençar,pilota
+Podries recollir la capsa?	agafar,caixa
+La bola, recull-la i La contenidor, recull-la.	agafar,pilota,agafar,caixa
+La contenidor, deixa-la i La bola, deixa-la!	deixar,caixa,deixar,pilota
+solta el contenidor sobre la taula i llança la esfera.	deixar,caixa,llençar,pilota
+La caixa, deixa-la i La bola, llança-la.	deixar,caixa,llençar,pilota
+tíres la caixa?	llençar,caixa
+solta la capsa i pren la pilota a terra!	deixar,caixa,agafar,pilota
+prens la pilota, si us plau?	agafar,pilota
+recull el contenidor i tira la bola, si us plau.	agafar,caixa,llençar,pilota
+agafa la bola!	agafar,pilota
+Pots allibera la bola i agafar el contenidor?	deixar,pilota,agafar,caixa
+Podries tira la capsa?	llençar,caixa
+llança la capsa i solta la pilota, si us plau!	llençar,caixa,deixar,pilota
+llença la bola!	llençar,pilota
+La esfera, tira-la i La caixa, tira-la.	llençar,pilota,llençar,caixa
+Si us plau, solta la pilota.	deixar,pilota
+pren la esfera i llança-la a terra.	agafar,pilota,llençar,pilota
+Podries deixar la caixa i recollir la bola?	deixar,caixa,agafar,pilota
+agafa la bola, si us plau!	agafar,pilota
+Si us plau, Pots llança la pilota?	llençar,pilota
+pren la esfera, si us plau.	agafar,pilota
+Pots tira la esfera?	llençar,pilota
+Si us plau, deixa la esfera i agafa-la sobre la taula!	deixar,pilota,agafar,pilota
+agafa la bola i tira la caixa.	agafar,pilota,llençar,caixa
+Podries deixar la pilota i tira el contenidor, si us plau?	deixar,pilota,llençar,caixa
+agafa la pilota i deixa el contenidor a terra.	agafar,pilota,deixar,caixa
+tira la bola i solta el contenidor!	llençar,pilota,deixar,caixa
+tira la caixa!	llençar,caixa
+tira la caixa.	llençar,caixa
+Si us plau, La capsa, llença-la i La bola, llença-la!	llençar,caixa,llençar,pilota
+agafes la pilota?	agafar,pilota
+La caixa, allibera-la i La bola, llança-la!	deixar,caixa,llençar,pilota
+llença la pilota i recull-la a terra.	llençar,pilota,agafar,pilota
+solta la pilota i recull-la!	deixar,pilota,agafar,pilota
+prens la bola i tíres la capsa, si us plau?	agafar,pilota,llençar,caixa
+deixa la capsa i agafa-la sobre la taula.	deixar,caixa,agafar,caixa
+recull la bola i llença la caixa a terra!	agafar,pilota,llençar,caixa
+allibera la pilota, si us plau.	deixar,pilota
+recull la esfera a terra i allibera la capsa, si us plau!	agafar,pilota,deixar,caixa
+Si us plau, La caixa, tira-la i La pilota, solta-la.	llençar,caixa,deixar,pilota
+Si us plau, La pilota, tira-la i La capsa, tira-la.	llençar,pilota,llençar,caixa
+pren la caixa i solta la bola sobre la taula!	agafar,caixa,deixar,pilota
+La pilota, recull-la i La contenidor, solta-la!	agafar,pilota,deixar,caixa
+recull la esfera i solta la capsa!	agafar,pilota,deixar,caixa
+tira la bola i deixa-la a terra, si us plau.	llençar,pilota,deixar,pilota
+La pilota, recull-la i La contenidor, recull-la.	agafar,pilota,agafar,caixa
+llança la capsa i deixa-la.	llençar,caixa,deixar,caixa
+pren la esfera i tira la caixa, si us plau!	agafar,pilota,llençar,caixa
+Si us plau, allibera la caixa i tira-la sobre la taula.	deixar,caixa,llençar,caixa
+Podries tira la bola i recollir la capsa?	llençar,pilota,agafar,caixa
+recull la esfera i deixa-la, si us plau.	agafar,pilota,deixar,pilota
+deixa la esfera i pren la capsa a terra!	deixar,pilota,agafar,caixa
+Si us plau, solta el contenidor i pren la esfera a terra!	deixar,caixa,agafar,pilota
+llança la pilota.	llençar,pilota
+llença el contenidor i agafa la esfera!	llençar,caixa,agafar,pilota
+agafes la capsa?	agafar,caixa
+La pilota, deixa-la i La caixa, pren-la, si us plau!	deixar,pilota,agafar,caixa
+deixa la capsa!	deixar,caixa
+Podries llençar la capsa i solta la esfera?	llençar,caixa,deixar,pilota
+deixa la bola i tira-la a terra.	deixar,pilota,llençar,pilota
+agafa la esfera i allibera-la a terra!	agafar,pilota,deixar,pilota
+La esfera, pren-la i La caixa, pren-la.	agafar,pilota,agafar,caixa
+llança el contenidor i pren-la.	llençar,caixa,agafar,caixa
+agafa la pilota i tira-la a terra!	agafar,pilota,llençar,pilota
+llança el contenidor i agafa-la.	llençar,caixa,agafar,caixa
+llança la bola.	llençar,pilota
+allibera el contenidor i tira la pilota.	deixar,caixa,llençar,pilota
+Si us plau, llança la pilota i agafa la caixa!	llençar,pilota,agafar,caixa
+llença la pilota i pren-la.	llençar,pilota,agafar,pilota
+tira la esfera sobre la taula i allibera la caixa.	llençar,pilota,deixar,caixa
+solta el contenidor i llença la esfera sobre la taula.	deixar,caixa,llençar,pilota
+Si us plau, recull la pilota.	agafar,pilota
+tira el contenidor!	llençar,caixa
+Podries tira la pilota?	llençar,pilota
+solta la esfera!	deixar,pilota
+alliberes la caixa?	deixar,caixa
+llença la esfera i allibera-la a terra!	llençar,pilota,deixar,pilota
+deixa la esfera i agafa la capsa.	deixar,pilota,agafar,caixa
+La contenidor, agafa-la i La esfera, solta-la.	agafar,caixa,deixar,pilota
+La caixa, pren-la i La esfera, allibera-la!	agafar,caixa,deixar,pilota
+llences la esfera i prens la caixa?	llençar,pilota,agafar,caixa
+Si us plau, agafa la esfera i tira-la a terra!	agafar,pilota,llençar,pilota
+llança la pilota i deixa-la sobre la taula, si us plau.	llençar,pilota,deixar,pilota
+llança la pilota i solta-la.	llençar,pilota,deixar,pilota
+La bola, allibera-la i La contenidor, recull-la!	deixar,pilota,agafar,caixa
+allibera la bola i llença-la, si us plau!	deixar,pilota,llençar,pilota
+Si us plau, deixa el contenidor i llença-la sobre la taula.	deixar,caixa,llençar,caixa
+Si us plau, agafa la capsa sobre la taula i allibera la esfera.	agafar,caixa,deixar,pilota
+La pilota, tira-la i La contenidor, solta-la!	llençar,pilota,deixar,caixa
+La capsa, tira-la i La bola, agafa-la!	llençar,caixa,agafar,pilota
+llança el contenidor i deixa-la!	llençar,caixa,deixar,caixa
+Podries llança la capsa i agafar la esfera?	llençar,caixa,agafar,pilota
+solta el contenidor!	deixar,caixa
+Podries llança la caixa?	llençar,caixa
+Pots deixar la bola i llençar la caixa, si us plau?	deixar,pilota,llençar,caixa
+agafa la caixa!	agafar,caixa
+llança la caixa i pren la pilota sobre la taula!	llençar,caixa,agafar,pilota
+solta el contenidor i llença-la.	deixar,caixa,llençar,caixa
+allibera la caixa i llença la esfera.	deixar,caixa,llençar,pilota
+llança la esfera i recull la caixa!	llençar,pilota,agafar,caixa
+La contenidor, agafa-la i La pilota, allibera-la, si us plau.	agafar,caixa,deixar,pilota
+Si us plau, deixa la caixa a terra i llança la pilota.	deixar,caixa,llençar,pilota
+deixa el contenidor i llença la pilota a terra.	deixar,caixa,llençar,pilota
+deixes el contenidor, si us plau?	deixar,caixa
+deixa la capsa i recull-la a terra!	deixar,caixa,agafar,caixa
+solta la esfera a terra i tira la caixa!	deixar,pilota,llençar,caixa
+Pots agafar la caixa i solta la pilota?	agafar,caixa,deixar,pilota
+soltes la pilota i prens la caixa?	deixar,pilota,agafar,caixa
+La capsa, agafa-la i La esfera, solta-la!	agafar,caixa,deixar,pilota
+Podries recollir la caixa?	agafar,caixa
+agafa la esfera i solta-la.	agafar,pilota,deixar,pilota
+Si us plau, agafa la pilota!	agafar,pilota
+Si us plau, Podries deixar la pilota?	deixar,pilota
+llança la esfera i allibera el contenidor.	llençar,pilota,deixar,caixa
+agafa la caixa i solta-la!	agafar,caixa,deixar,caixa
+Podries prendre la pilota, si us plau?	agafar,pilota
+tira el contenidor a terra i pren la esfera!	llençar,caixa,agafar,pilota
+recull la capsa!	agafar,caixa
+recull el contenidor a terra i llança la pilota.	agafar,caixa,llençar,pilota
+llença el contenidor!	llençar,caixa
+llença la capsa i solta la esfera!	llençar,caixa,deixar,pilota
+Si us plau, La caixa, tira-la i La bola, recull-la!	llençar,caixa,agafar,pilota
+agafes la capsa i soltes la esfera?	agafar,caixa,deixar,pilota
+La esfera, tira-la i La capsa, tira-la.	llençar,pilota,llençar,caixa
+recull la bola i llança-la a terra!	agafar,pilota,llençar,pilota
+tira la caixa a terra i agafa la esfera!	llençar,caixa,agafar,pilota
+Si us plau, recull la esfera i llança-la a terra!	agafar,pilota,llençar,pilota
+pren la esfera i solta la caixa sobre la taula!	agafar,pilota,deixar,caixa
+Si us plau, La esfera, agafa-la i La capsa, agafa-la.	agafar,pilota,agafar,caixa
+solta la caixa!	deixar,caixa
+Si us plau, La caixa, llança-la i La bola, pren-la.	llençar,caixa,agafar,pilota
+recull la bola i llança-la a terra.	agafar,pilota,llençar,pilota
+llença la pilota sobre la taula i agafa la capsa!	llençar,pilota,agafar,caixa
+Si us plau, llença la esfera.	llençar,pilota
+La caixa, pren-la i La pilota, pren-la!	agafar,caixa,agafar,pilota
+pren la esfera i solta-la.	agafar,pilota,deixar,pilota
+Pots allibera la pilota i tira la caixa?	deixar,pilota,llençar,caixa
+tira la bola i pren la caixa.	llençar,pilota,agafar,caixa
+Si us plau, deixa la bola!	deixar,pilota
+recull la pilota i tira-la!	agafar,pilota,llençar,pilota
+recull la capsa sobre la taula i llança la esfera, si us plau.	agafar,caixa,llençar,pilota
+llences la pilota i alliberes el contenidor?	llençar,pilota,deixar,caixa
+llences la bola?	llençar,pilota
+agafa la esfera!	agafar,pilota
+solta el contenidor.	deixar,caixa
+agafa la esfera i solta-la sobre la taula, si us plau.	agafar,pilota,deixar,pilota
+deixa la caixa a terra i tira la bola.	deixar,caixa,llençar,pilota
+solta la capsa sobre la taula i agafa la bola.	deixar,caixa,agafar,pilota
+La caixa, agafa-la i La pilota, deixa-la.	agafar,caixa,deixar,pilota
+pren la esfera i tira-la.	agafar,pilota,llençar,pilota
+llença la esfera i deixa-la.	llençar,pilota,deixar,pilota
+solta la bola i llença la capsa.	deixar,pilota,llençar,caixa
+llança el contenidor i solta-la!	llençar,caixa,deixar,caixa
+tira la esfera i agafa-la!	llençar,pilota,agafar,pilota
+La caixa, pren-la i La esfera, deixa-la!	agafar,caixa,deixar,pilota
+Si us plau, pren la pilota.	agafar,pilota
+llança la esfera sobre la taula i allibera el contenidor, si us plau.	llençar,pilota,deixar,caixa
+llança la capsa, si us plau.	llençar,caixa
+Si us plau, allibera la caixa a terra i recull la bola!	deixar,caixa,agafar,pilota
+Pots allibera la bola?	deixar,pilota
+Pots llençar la esfera i agafar la caixa, si us plau?	llençar,pilota,agafar,caixa
+Si us plau, deixes la bola i llences la capsa?	deixar,pilota,llençar,caixa
+La caixa, llença-la i La esfera, agafa-la, si us plau!	llençar,caixa,agafar,pilota
+agafa la pilota i tira-la sobre la taula, si us plau!	agafar,pilota,llençar,pilota
+Si us plau, La pilota, agafa-la i La contenidor, agafa-la.	agafar,pilota,agafar,caixa
+recull la bola i tira-la!	agafar,pilota,llençar,pilota
+llança la caixa i deixa-la a terra.	llençar,caixa,deixar,caixa
+tíres el contenidor i deixes la pilota?	llençar,caixa,deixar,pilota
+deixa el contenidor!	deixar,caixa
+La contenidor, llança-la i La pilota, llança-la.	llençar,caixa,llençar,pilota
+Si us plau, agafa el contenidor i tira-la a terra!	agafar,caixa,llençar,caixa
+Si us plau, recull la pilota a terra i allibera el contenidor!	agafar,pilota,deixar,caixa
+agafa la pilota sobre la taula i llença la caixa!	agafar,pilota,llençar,caixa
+llança la capsa i deixa la bola a terra.	llençar,caixa,deixar,pilota
+agafa la caixa.	agafar,caixa
+La esfera, agafa-la i La capsa, solta-la!	agafar,pilota,deixar,caixa
+Si us plau, tira la caixa i deixa-la a terra!	llençar,caixa,deixar,caixa
+solta la caixa i llença-la a terra.	deixar,caixa,llençar,caixa
+llança la caixa i recull-la.	llençar,caixa,agafar,caixa
+soltes la caixa i agafes la esfera?	deixar,caixa,agafar,pilota
+solta la esfera i llança la caixa sobre la taula, si us plau!	deixar,pilota,llençar,caixa
+pren la esfera i solta el contenidor!	agafar,pilota,deixar,caixa
+prens el contenidor i tíres la pilota, si us plau?	agafar,caixa,llençar,pilota
+recull la pilota, si us plau!	agafar,pilota
+allibera la bola i tira el contenidor.	deixar,pilota,llençar,caixa
+deixa la bola i agafa-la a terra, si us plau.	deixar,pilota,agafar,pilota
+Pots tira la pilota i prendre la caixa?	llençar,pilota,agafar,caixa
+tira la esfera i solta-la sobre la taula, si us plau!	llençar,pilota,deixar,pilota
+recull la caixa i llença-la a terra!	agafar,caixa,llençar,caixa
+recull la bola i allibera-la sobre la taula!	agafar,pilota,deixar,pilota
+pren la bola i deixa la capsa a terra!	agafar,pilota,deixar,caixa
+llança la caixa i agafa-la a terra, si us plau!	llençar,caixa,agafar,caixa
+deixa la capsa i llança-la a terra!	deixar,caixa,llençar,caixa
+Si us plau, llança el contenidor!	llençar,caixa
+agafa la capsa i allibera-la sobre la taula, si us plau!	agafar,caixa,deixar,caixa
+Podries llança el contenidor i allibera la pilota?	llençar,caixa,deixar,pilota
+La caixa, deixa-la i La pilota, deixa-la, si us plau!	deixar,caixa,deixar,pilota
+Podries deixar la capsa i llança la bola?	deixar,caixa,llençar,pilota
+pren el contenidor i solta-la sobre la taula.	agafar,caixa,deixar,caixa
+deixa la caixa i llança-la a terra.	deixar,caixa,llençar,caixa
+pren la pilota i deixa el contenidor, si us plau!	agafar,pilota,deixar,caixa
+llança la caixa i recull-la a terra.	llençar,caixa,agafar,caixa
+La caixa, solta-la i La bola, solta-la!	deixar,caixa,deixar,pilota
+tíres la capsa i agafes la esfera?	llençar,caixa,agafar,pilota
+pren la esfera i tira-la, si us plau.	agafar,pilota,llençar,pilota
+tira la capsa a terra i deixa la esfera.	llençar,caixa,deixar,pilota
+tira la pilota i solta el contenidor sobre la taula!	llençar,pilota,deixar,caixa
+allibera la caixa i recull-la a terra!	deixar,caixa,agafar,caixa
+La esfera, tira-la i La capsa, pren-la!	llençar,pilota,agafar,caixa
+recull la caixa sobre la taula i allibera la bola, si us plau.	agafar,caixa,deixar,pilota
+llença la caixa i agafa-la!	llençar,caixa,agafar,caixa
+Si us plau, llança la esfera i pren-la sobre la taula!	llençar,pilota,agafar,pilota
+Si us plau, allibera la pilota a terra i llança la caixa!	deixar,pilota,llençar,caixa
+Si us plau, recull la pilota!	agafar,pilota
+La caixa, allibera-la i La esfera, allibera-la!	deixar,caixa,deixar,pilota
+llança el contenidor a terra i solta la bola!	llençar,caixa,deixar,pilota
+deixes el contenidor i agafes la bola, si us plau?	deixar,caixa,agafar,pilota
+llança la esfera i solta la capsa.	llençar,pilota,deixar,caixa
+agafa la capsa i tira la esfera, si us plau!	agafar,caixa,llençar,pilota
+Si us plau, La esfera, allibera-la i La caixa, recull-la!	deixar,pilota,agafar,caixa
+agafes la esfera i llences la caixa?	agafar,pilota,llençar,caixa
+Podries recollir la bola?	agafar,pilota
+llença la esfera i agafa-la a terra.	llençar,pilota,agafar,pilota
+allibera el contenidor i tira-la sobre la taula.	deixar,caixa,llençar,caixa
+Si us plau, Podries recollir la pilota i solta la capsa?	agafar,pilota,deixar,caixa
+allibera la bola i llença-la sobre la taula.	deixar,pilota,llençar,pilota
+pren la pilota i deixa-la sobre la taula!	agafar,pilota,deixar,pilota
+Si us plau, La contenidor, recull-la i La esfera, deixa-la!	agafar,caixa,deixar,pilota
+llença la esfera i pren la caixa a terra.	llençar,pilota,agafar,caixa
+Si us plau, deixa la pilota i tira-la a terra!	deixar,pilota,llençar,pilota
+pren la bola i deixa-la sobre la taula.	agafar,pilota,deixar,pilota
+deixa la bola i llança-la sobre la taula!	deixar,pilota,llençar,pilota
+Podries allibera la capsa?	deixar,caixa
+llança la bola i recull-la sobre la taula.	llençar,pilota,agafar,pilota
+La capsa, tira-la i La pilota, agafa-la.	llençar,caixa,agafar,pilota
+solta la bola i llança la caixa sobre la taula.	deixar,pilota,llençar,caixa
+tira la esfera i recull la capsa!	llençar,pilota,agafar,caixa
+tira la capsa i recull-la a terra, si us plau.	llençar,caixa,agafar,caixa
+La bola, allibera-la i La caixa, agafa-la.	deixar,pilota,agafar,caixa
+La caixa, llança-la i La pilota, agafa-la.	llençar,caixa,agafar,pilota
+La caixa, deixa-la i La pilota, pren-la!	deixar,caixa,agafar,pilota
+La contenidor, llença-la i La pilota, llença-la.	llençar,caixa,llençar,pilota
+allibera la caixa i agafa la bola sobre la taula.	deixar,caixa,agafar,pilota
+deixes la pilota i reculls la caixa, si us plau?	deixar,pilota,agafar,caixa
+recull la bola i llança-la sobre la taula.	agafar,pilota,llençar,pilota
+La capsa, llança-la i La bola, llança-la, si us plau.	llençar,caixa,llençar,pilota
+reculls la capsa?	agafar,caixa
+La pilota, llença-la i La capsa, recull-la!	llençar,pilota,agafar,caixa
+Si us plau, tira la caixa a terra i solta la esfera.	llençar,caixa,deixar,pilota
+recull la caixa i solta-la sobre la taula, si us plau!	agafar,caixa,deixar,caixa
+Si us plau, Pots llençar la esfera?	llençar,pilota
+Pots agafar la bola i allibera la caixa?	agafar,pilota,deixar,caixa
+Si us plau, llança el contenidor i pren-la a terra!	llençar,caixa,agafar,caixa
+tira la capsa a terra i deixa la bola!	llençar,caixa,deixar,pilota
+pren la caixa i deixa-la a terra!	agafar,caixa,deixar,caixa
+La capsa, recull-la i La esfera, recull-la.	agafar,caixa,agafar,pilota
+llences la caixa i alliberes la bola?	llençar,caixa,deixar,pilota
+pren la esfera a terra i solta la caixa.	agafar,pilota,deixar,caixa
+Podries allibera la bola, si us plau?	deixar,pilota
+pren la capsa i llança la esfera!	agafar,caixa,llençar,pilota
+Si us plau, agafa la caixa.	agafar,caixa
+La contenidor, agafa-la i La pilota, agafa-la.	agafar,caixa,agafar,pilota
+deixes el contenidor?	deixar,caixa
+La caixa, llença-la i La bola, agafa-la!	llençar,caixa,agafar,pilota
+Si us plau, llança la capsa a terra i deixa la esfera.	llençar,caixa,deixar,pilota
+La bola, solta-la i La contenidor, llança-la.	deixar,pilota,llençar,caixa
+solta la esfera i llença la caixa.	deixar,pilota,llençar,caixa
+pren la caixa sobre la taula i solta la esfera!	agafar,caixa,deixar,pilota
+agafa la capsa i tira-la.	agafar,caixa,llençar,caixa
+Si us plau, agafa la pilota i solta el contenidor!	agafar,pilota,deixar,caixa
+agafa la esfera.	agafar,pilota
+allibera la esfera a terra i llença la caixa.	deixar,pilota,llençar,caixa
+deixa el contenidor i llença-la a terra.	deixar,caixa,llençar,caixa
+Si us plau, Podries tira la pilota i agafar la capsa?	llençar,pilota,agafar,caixa
+allibera la caixa, si us plau!	deixar,caixa
+llença la bola.	llençar,pilota
+La capsa, pren-la i La pilota, pren-la.	agafar,caixa,agafar,pilota
+solta la bola!	deixar,pilota
+agafa el contenidor i deixa la esfera!	agafar,caixa,deixar,pilota
+Pots deixar la esfera?	deixar,pilota
+Podries solta la esfera?	deixar,pilota
+llença la capsa i solta la pilota!	llençar,caixa,deixar,pilota
+Si us plau, La contenidor, tira-la i La esfera, allibera-la.	llençar,caixa,deixar,pilota
+La capsa, agafa-la i La esfera, agafa-la.	agafar,caixa,agafar,pilota
+La bola, llença-la i La capsa, allibera-la!	llençar,pilota,deixar,caixa
+Pots llençar la capsa i recollir la pilota?	llençar,caixa,agafar,pilota
+solta la pilota i recull-la.	deixar,pilota,agafar,pilota
+Pots recollir la caixa?	agafar,caixa
+llença el contenidor i agafa-la.	llençar,caixa,agafar,caixa
+Pots deixar la pilota?	deixar,pilota
+La capsa, agafa-la i La esfera, agafa-la, si us plau.	agafar,caixa,agafar,pilota
+agafa el contenidor sobre la taula i deixa la bola.	agafar,caixa,deixar,pilota
+agafa el contenidor i llança la pilota a terra, si us plau.	agafar,caixa,llençar,pilota
+llença la pilota i solta el contenidor a terra, si us plau.	llençar,pilota,deixar,caixa
+La pilota, pren-la i La contenidor, pren-la!	agafar,pilota,agafar,caixa
+llança la pilota i pren la caixa!	llençar,pilota,agafar,caixa
+La bola, llança-la i La capsa, llança-la.	llençar,pilota,llençar,caixa
+Si us plau, Podries allibera la caixa?	deixar,caixa
+solta la pilota i agafa la capsa a terra!	deixar,pilota,agafar,caixa
+La bola, agafa-la i La caixa, tira-la!	agafar,pilota,llençar,caixa
+Si us plau, recull la pilota i llança el contenidor sobre la taula.	agafar,pilota,llençar,caixa
+deixa la capsa i tira-la a terra.	deixar,caixa,llençar,caixa
+tíres la esfera i prens el contenidor?	llençar,pilota,agafar,caixa
+Si us plau, allibera la capsa!	deixar,caixa
+allibera la bola a terra i pren el contenidor!	deixar,pilota,agafar,caixa
+solta el contenidor i recull la bola!	deixar,caixa,agafar,pilota
+llança la pilota i deixa-la.	llençar,pilota,deixar,pilota
+Si us plau, llença la caixa.	llençar,caixa
+Si us plau, tira la esfera i agafa-la.	llençar,pilota,agafar,pilota
+La contenidor, solta-la i La bola, recull-la.	deixar,caixa,agafar,pilota
+La capsa, recull-la i La esfera, allibera-la, si us plau.	agafar,caixa,deixar,pilota
+pren la capsa!	agafar,caixa
+Pots prendre la caixa?	agafar,caixa
+llença la capsa i deixa-la a terra.	llençar,caixa,deixar,caixa
+tira la caixa i agafa-la sobre la taula!	llençar,caixa,agafar,caixa
+La esfera, agafa-la i La contenidor, llança-la, si us plau.	agafar,pilota,llençar,caixa
+Pots deixar la pilota i recollir el contenidor?	deixar,pilota,agafar,caixa
+solta la bola i agafa-la a terra.	deixar,pilota,agafar,pilota
+pren la caixa i tira la bola!	agafar,caixa,llençar,pilota
+La bola, solta-la i La capsa, solta-la!	deixar,pilota,deixar,caixa
+La caixa, tira-la i La pilota, agafa-la!	llençar,caixa,agafar,pilota
+La bola, deixa-la i La contenidor, deixa-la.	deixar,pilota,deixar,caixa
+agafa la capsa i tira la esfera a terra, si us plau!	agafar,caixa,llençar,pilota
+recull el contenidor i deixa-la sobre la taula.	agafar,caixa,deixar,caixa
+llença la capsa a terra i allibera la pilota!	llençar,caixa,deixar,pilota
+Podries prendre la capsa, si us plau?	agafar,caixa
+Podries llençar la pilota i deixar el contenidor?	llençar,pilota,deixar,caixa
+agafa la capsa i deixa la esfera.	agafar,caixa,deixar,pilota
+llença la caixa, si us plau.	llençar,caixa
+deixa la capsa.	deixar,caixa
+Si us plau, allibera la bola i llença la caixa a terra!	deixar,pilota,llençar,caixa
+llença la capsa i pren-la sobre la taula!	llençar,caixa,agafar,caixa
+deixa la pilota i llança-la sobre la taula, si us plau!	deixar,pilota,llençar,pilota
+pren la pilota i llança el contenidor sobre la taula.	agafar,pilota,llençar,caixa
+La bola, llança-la i La capsa, allibera-la.	llençar,pilota,deixar,caixa
+Si us plau, pren la capsa a terra i deixa la bola.	agafar,caixa,deixar,pilota
+llença la caixa i deixa la bola a terra!	llençar,caixa,deixar,pilota
+La capsa, llença-la i La pilota, deixa-la!	llençar,caixa,deixar,pilota
+agafa la bola i tira la capsa.	agafar,pilota,llençar,caixa
+llences la caixa i soltes la esfera?	llençar,caixa,deixar,pilota
+tira la bola!	llençar,pilota
+deixa la caixa i agafa la esfera sobre la taula!	deixar,caixa,agafar,pilota
+llença la esfera i allibera el contenidor sobre la taula.	llençar,pilota,deixar,caixa
+agafa la caixa sobre la taula i llança la esfera!	agafar,caixa,llençar,pilota
+La bola, agafa-la i La contenidor, agafa-la!	agafar,pilota,agafar,caixa
+Pots allibera la capsa, si us plau?	deixar,caixa
+solta la capsa i tira la esfera.	deixar,caixa,llençar,pilota
+llança la pilota a terra i deixa la caixa.	llençar,pilota,deixar,caixa
+La caixa, llença-la i La pilota, llença-la.	llençar,caixa,llençar,pilota
+Si us plau, recull la bola i llança el contenidor sobre la taula!	agafar,pilota,llençar,caixa
+La caixa, llança-la i La pilota, llança-la!	llençar,caixa,llençar,pilota
+deixa la caixa i tira la pilota sobre la taula!	deixar,caixa,llençar,pilota
+La pilota, llança-la i La caixa, llança-la.	llençar,pilota,llençar,caixa
+deixes la esfera i prens la caixa?	deixar,pilota,agafar,caixa
+Si us plau, deixa la bola i recull-la a terra.	deixar,pilota,agafar,pilota
+solta la capsa i llança la pilota a terra.	deixar,caixa,llençar,pilota
+La pilota, deixa-la i La caixa, deixa-la.	deixar,pilota,deixar,caixa
+tira la capsa i pren la pilota!	llençar,caixa,agafar,pilota
+recull el contenidor i llença-la.	agafar,caixa,llençar,caixa
+agafa la esfera i deixa-la sobre la taula.	agafar,pilota,deixar,pilota
+Si us plau, Pots prendre el contenidor?	agafar,caixa
+Si us plau, deixa la caixa i llença-la sobre la taula!	deixar,caixa,llençar,caixa
+Si us plau, La caixa, recull-la i La esfera, llença-la!	agafar,caixa,llençar,pilota
+deixa la capsa i llença la bola.	deixar,caixa,llençar,pilota
+Pots deixar la capsa i tira la pilota?	deixar,caixa,llençar,pilota
+Si us plau, solta la esfera i recull-la a terra!	deixar,pilota,agafar,pilota
+llança la pilota sobre la taula i pren la capsa, si us plau!	llençar,pilota,agafar,caixa
+Si us plau, solta la esfera!	deixar,pilota
+allibera el contenidor i tira-la.	deixar,caixa,llençar,caixa
+deixa el contenidor, si us plau.	deixar,caixa
+Pots deixar la caixa?	deixar,caixa
+agafes la capsa i soltes la pilota?	agafar,caixa,deixar,pilota
+solta la capsa i agafa la esfera!	deixar,caixa,agafar,pilota
+La contenidor, deixa-la i La bola, tira-la!	deixar,caixa,llençar,pilota
+agafa el contenidor.	agafar,caixa
+tíres la pilota?	llençar,pilota
+La bola, tira-la i La caixa, agafa-la!	llençar,pilota,agafar,caixa
+La bola, llança-la i La capsa, llança-la!	llençar,pilota,llençar,caixa
+pren el contenidor a terra i solta la bola, si us plau.	agafar,caixa,deixar,pilota
+Si us plau, agafes la pilota i tíres la capsa?	agafar,pilota,llençar,caixa
+La bola, llança-la i La capsa, pren-la.	llençar,pilota,agafar,caixa
+deixa la bola i agafa la caixa.	deixar,pilota,agafar,caixa
+tira la bola i agafa-la, si us plau.	llençar,pilota,agafar,pilota
+Podries tira la capsa i agafar la pilota, si us plau?	llençar,caixa,agafar,pilota
+allibera el contenidor i recull la bola, si us plau.	deixar,caixa,agafar,pilota
+La esfera, solta-la i La contenidor, tira-la!	deixar,pilota,llençar,caixa
+Si us plau, reculls la capsa?	agafar,caixa
+solta la caixa i llança la bola a terra!	deixar,caixa,llençar,pilota
+agafes la pilota i soltes la caixa?	agafar,pilota,deixar,caixa
+agafa el contenidor i solta-la, si us plau.	agafar,caixa,deixar,caixa
+llança la bola i pren-la.	llençar,pilota,agafar,pilota
+La pilota, agafa-la i La capsa, agafa-la!	agafar,pilota,agafar,caixa
+pren la pilota i deixa la caixa.	agafar,pilota,deixar,caixa
+Pots allibera la caixa i agafar la bola?	deixar,caixa,agafar,pilota
+tira la bola i recull la capsa!	llençar,pilota,agafar,caixa
+Si us plau, La contenidor, allibera-la i La bola, allibera-la.	deixar,caixa,deixar,pilota
+recull la bola i tira-la a terra.	agafar,pilota,llençar,pilota
+deixes la caixa i tíres la pilota?	deixar,caixa,llençar,pilota
+tira la esfera i deixa-la sobre la taula!	llençar,pilota,deixar,pilota
+solta la bola i tira-la.	deixar,pilota,llençar,pilota
+recull la caixa i llença-la!	agafar,caixa,llençar,caixa
+solta la capsa i agafa-la sobre la taula, si us plau.	deixar,caixa,agafar,caixa
+pren la bola i llança-la a terra!	agafar,pilota,llençar,pilota
+allibera la bola i llença-la!	deixar,pilota,llençar,pilota
+Pots llança la bola?	llençar,pilota
+pren la bola i allibera-la a terra.	agafar,pilota,deixar,pilota
+Si us plau, llença la capsa i solta la bola!	llençar,caixa,deixar,pilota
+Si us plau, tíres la caixa?	llençar,caixa
+recull el contenidor a terra i allibera la bola.	agafar,caixa,deixar,pilota
+La caixa, allibera-la i La pilota, llança-la!	deixar,caixa,llençar,pilota
+Si us plau, La pilota, llança-la i La caixa, llança-la!	llençar,pilota,llençar,caixa
+recull la esfera!	agafar,pilota
+pren la capsa i solta-la sobre la taula.	agafar,caixa,deixar,caixa
+Si us plau, La contenidor, tira-la i La esfera, tira-la.	llençar,caixa,llençar,pilota
+agafa el contenidor i tira-la sobre la taula!	agafar,caixa,llençar,caixa
+solta la esfera sobre la taula i llança el contenidor, si us plau!	deixar,pilota,llençar,caixa
+tira la bola sobre la taula i solta la caixa.	llençar,pilota,deixar,caixa
+recull la bola!	agafar,pilota
+La esfera, allibera-la i La contenidor, allibera-la, si us plau.	deixar,pilota,deixar,caixa
+allibera la caixa i llença-la.	deixar,caixa,llençar,caixa
+pren la pilota!	agafar,pilota
+La bola, recull-la i La caixa, allibera-la.	agafar,pilota,deixar,caixa
+agafa el contenidor sobre la taula i tira la pilota!	agafar,caixa,llençar,pilota
+allibera la bola i pren la capsa sobre la taula.	deixar,pilota,agafar,caixa
+Pots deixar la capsa i llençar la pilota?	deixar,caixa,llençar,pilota
+La contenidor, tira-la i La bola, agafa-la, si us plau.	llençar,caixa,agafar,pilota
+Pots deixar la caixa i llençar la pilota?	deixar,caixa,llençar,pilota
+llança el contenidor i deixa-la sobre la taula!	llençar,caixa,deixar,caixa
+Podries llança la capsa i allibera la pilota?	llençar,caixa,deixar,pilota
+Si us plau, La esfera, llença-la i La caixa, pren-la.	llençar,pilota,agafar,caixa
+recull la caixa i solta la pilota a terra!	agafar,caixa,deixar,pilota
+Pots deixar la caixa i prendre la esfera?	deixar,caixa,agafar,pilota
+Pots prendre la esfera?	agafar,pilota
+llença la capsa i allibera-la, si us plau.	llençar,caixa,deixar,caixa
+llences la pilota?	llençar,pilota
+La caixa, allibera-la i La pilota, tira-la!	deixar,caixa,llençar,pilota
+llança el contenidor i deixa la esfera!	llençar,caixa,deixar,pilota
+La pilota, solta-la i La caixa, solta-la.	deixar,pilota,deixar,caixa
+Si us plau, allibera la bola i llença-la.	deixar,pilota,llençar,pilota
+tira la pilota i deixa-la sobre la taula, si us plau!	llençar,pilota,deixar,pilota
+Si us plau, allibera la capsa i llença la esfera a terra!	deixar,caixa,llençar,pilota
+pren el contenidor i deixa la bola sobre la taula!	agafar,caixa,deixar,pilota
+pren la capsa i deixa-la, si us plau!	agafar,caixa,deixar,caixa
+Si us plau, solta la caixa.	deixar,caixa
+recull la esfera i llança-la!	agafar,pilota,llençar,pilota
+solta la capsa!	deixar,caixa
+Si us plau, La contenidor, tira-la i La pilota, tira-la!	llençar,caixa,llençar,pilota
+Pots allibera la caixa?	deixar,caixa
+La esfera, allibera-la i La caixa, llença-la!	deixar,pilota,llençar,caixa
+pren la caixa a terra i deixa la esfera, si us plau!	agafar,caixa,deixar,pilota
+Si us plau, agafa la caixa!	agafar,caixa
+La esfera, recull-la i La caixa, allibera-la, si us plau.	agafar,pilota,deixar,caixa
+Si us plau, La bola, llança-la i La caixa, llança-la!	llençar,pilota,llençar,caixa
+Pots tira la capsa, si us plau?	llençar,caixa
+Pots llençar el contenidor, si us plau?	llençar,caixa
+llança la capsa a terra i deixa la bola.	llençar,caixa,deixar,pilota
+solta la pilota i recull-la sobre la taula!	deixar,pilota,agafar,pilota
+solta la esfera sobre la taula i pren el contenidor.	deixar,pilota,agafar,caixa
+La capsa, llança-la i La bola, llança-la.	llençar,caixa,llençar,pilota
+La bola, recull-la i La caixa, recull-la!	agafar,pilota,agafar,caixa
+La capsa, recull-la i La bola, llança-la.	agafar,caixa,llençar,pilota
+La bola, solta-la i La capsa, llança-la.	deixar,pilota,llençar,caixa
+llences la caixa?	llençar,caixa
+alliberes la bola?	deixar,pilota
+Pots solta la esfera, si us plau?	deixar,pilota
+Podries agafar la pilota i tira la caixa?	agafar,pilota,llençar,caixa
+solta la pilota i llança-la.	deixar,pilota,llençar,pilota
+recull la caixa sobre la taula i llança la bola.	agafar,caixa,llençar,pilota
+tíres el contenidor, si us plau?	llençar,caixa
+llança la bola sobre la taula i allibera la caixa.	llençar,pilota,deixar,caixa
+Si us plau, deixa el contenidor.	deixar,caixa
+llança la bola i pren la capsa!	llençar,pilota,agafar,caixa
+pren la capsa i allibera-la sobre la taula, si us plau!	agafar,caixa,deixar,caixa
+tira el contenidor i agafa-la sobre la taula, si us plau!	llençar,caixa,agafar,caixa
+La caixa, allibera-la i La bola, agafa-la, si us plau.	deixar,caixa,agafar,pilota
+agafa la pilota i tira-la sobre la taula.	agafar,pilota,llençar,pilota
+llences la capsa?	llençar,caixa
+Si us plau, Pots allibera el contenidor i llençar la esfera?	deixar,caixa,llençar,pilota
+deixa la pilota i llança-la sobre la taula!	deixar,pilota,llençar,pilota
+pren la capsa i llença-la.	agafar,caixa,llençar,caixa
+La esfera, llança-la i La caixa, llança-la.	llençar,pilota,llençar,caixa
+agafa la capsa i allibera-la a terra.	agafar,caixa,deixar,caixa
+La capsa, recull-la i La pilota, recull-la!	agafar,caixa,agafar,pilota
+La bola, tira-la i La caixa, tira-la.	llençar,pilota,llençar,caixa
+pren la pilota i deixa el contenidor a terra!	agafar,pilota,deixar,caixa
+Si us plau, tira la pilota i recull la caixa.	llençar,pilota,agafar,caixa
+La esfera, pren-la i La caixa, tira-la.	agafar,pilota,llençar,caixa
+prens la esfera i llences la capsa?	agafar,pilota,llençar,caixa
+Si us plau, tira la caixa.	llençar,caixa
+allibera la esfera!	deixar,pilota
+pren la capsa, si us plau!	agafar,caixa
+agafa la capsa i deixa la esfera sobre la taula!	agafar,caixa,deixar,pilota
+llança la bola a terra i deixa la capsa, si us plau!	llençar,pilota,deixar,caixa
+solta el contenidor i tira la esfera!	deixar,caixa,llençar,pilota
+Si us plau, recull la esfera i llença la capsa.	agafar,pilota,llençar,caixa
+La esfera, llença-la i La contenidor, llença-la!	llençar,pilota,llençar,caixa
+Si us plau, allibera la bola i tira-la sobre la taula!	deixar,pilota,llençar,pilota
+Si us plau, Podries llençar el contenidor i deixar la bola?	llençar,caixa,deixar,pilota
+agafa el contenidor i tira la pilota a terra!	agafar,caixa,llençar,pilota
+Si us plau, pren la capsa!	agafar,caixa
+La capsa, pren-la i La bola, tira-la, si us plau.	agafar,caixa,llençar,pilota
+La bola, llença-la i La caixa, agafa-la, si us plau.	llençar,pilota,agafar,caixa
+allibera la caixa i tira-la!	deixar,caixa,llençar,caixa
+deixa la bola a terra i tira el contenidor, si us plau!	deixar,pilota,llençar,caixa
+agafa la capsa i tira-la sobre la taula, si us plau!	agafar,caixa,llençar,caixa
+Si us plau, tira el contenidor i pren-la sobre la taula.	llençar,caixa,agafar,caixa
+La bola, llança-la i La contenidor, llança-la.	llençar,pilota,llençar,caixa
+agafes el contenidor, si us plau?	agafar,caixa
+llença la capsa i allibera-la!	llençar,caixa,deixar,caixa
+allibera la bola i llença el contenidor a terra, si us plau!	deixar,pilota,llençar,caixa
+pren la pilota i llença-la a terra!	agafar,pilota,llençar,pilota
+La bola, agafa-la i La caixa, deixa-la!	agafar,pilota,deixar,caixa
+Si us plau, llança el contenidor.	llençar,caixa
+recull la bola a terra i llença la caixa.	agafar,pilota,llençar,caixa
+alliberes el contenidor i tíres la pilota?	deixar,caixa,llençar,pilota
+Si us plau, deixa la capsa i llança la esfera.	deixar,caixa,llençar,pilota
+soltes el contenidor?	deixar,caixa
+pren la bola!	agafar,pilota
+Si us plau, reculls la pilota?	agafar,pilota
+La pilota, solta-la i La contenidor, solta-la!	deixar,pilota,deixar,caixa
+llança la pilota i deixa-la sobre la taula.	llençar,pilota,deixar,pilota
+La bola, llança-la i La caixa, llança-la, si us plau!	llençar,pilota,llençar,caixa
+llança la capsa i deixa la pilota sobre la taula, si us plau.	llençar,caixa,deixar,pilota
+llança la caixa!	llençar,caixa
+La caixa, deixa-la i La esfera, deixa-la.	deixar,caixa,deixar,pilota
+pren la capsa i llança la esfera sobre la taula, si us plau.	agafar,caixa,llençar,pilota
+allibera la capsa i recull-la!	deixar,caixa,agafar,caixa
+Pots deixar el contenidor i prendre la bola?	deixar,caixa,agafar,pilota
+La esfera, recull-la i La caixa, solta-la.	agafar,pilota,deixar,caixa
+Si us plau, tira el contenidor!	llençar,caixa
+La contenidor, pren-la i La pilota, pren-la, si us plau!	agafar,caixa,agafar,pilota
+llences la caixa i alliberes la pilota?	llençar,caixa,deixar,pilota
+La pilota, deixa-la i La contenidor, deixa-la.	deixar,pilota,deixar,caixa
+La contenidor, recull-la i La pilota, recull-la!	agafar,caixa,agafar,pilota
+agafes el contenidor?	agafar,caixa
+agafa la caixa sobre la taula i tira la pilota.	agafar,caixa,llençar,pilota
+pren la capsa i allibera-la sobre la taula, si us plau.	agafar,caixa,deixar,caixa
+allibera la caixa i pren la esfera.	deixar,caixa,agafar,pilota
+tira la esfera i solta-la sobre la taula.	llençar,pilota,deixar,pilota
+deixa la caixa, si us plau!	deixar,caixa
+La contenidor, llança-la i La pilota, llança-la!	llençar,caixa,llençar,pilota
+llença el contenidor a terra i solta la pilota!	llençar,caixa,deixar,pilota
+Podries allibera la pilota?	deixar,pilota
+llença la caixa sobre la taula i pren la esfera.	llençar,caixa,agafar,pilota
+deixes la esfera i llences la caixa?	deixar,pilota,llençar,caixa
+La capsa, llença-la i La esfera, recull-la.	llençar,caixa,agafar,pilota
+Si us plau, llença la esfera sobre la taula i agafa el contenidor.	llençar,pilota,agafar,caixa
+deixa la capsa i agafa-la.	deixar,caixa,agafar,caixa
+tira la esfera a terra i agafa la capsa!	llençar,pilota,agafar,caixa
+Si us plau, La esfera, llença-la i La capsa, llença-la!	llençar,pilota,llençar,caixa
+allibera la esfera, si us plau.	deixar,pilota
+solta la caixa i pren-la sobre la taula.	deixar,caixa,agafar,caixa
+recull la capsa a terra i allibera la esfera, si us plau.	agafar,caixa,deixar,pilota
+Si us plau, recull el contenidor!	agafar,caixa
+La capsa, llança-la i La bola, pren-la!	llençar,caixa,agafar,pilota
+llança la capsa i recull la pilota!	llençar,caixa,agafar,pilota
+recull el contenidor i llança la pilota.	agafar,caixa,llençar,pilota
+Podries deixar la bola i prendre el contenidor?	deixar,pilota,agafar,caixa
+allibera el contenidor a terra i agafa la pilota, si us plau.	deixar,caixa,agafar,pilota
+agafes la pilota i llences la capsa, si us plau?	agafar,pilota,llençar,caixa
+Si us plau, recull la pilota i llança-la.	agafar,pilota,llençar,pilota
+La esfera, recull-la i La contenidor, recull-la.	agafar,pilota,agafar,caixa
+tíres el contenidor?	llençar,caixa
+tira la pilota a terra i allibera la capsa.	llençar,pilota,deixar,caixa
+alliberes la pilota i llences el contenidor?	deixar,pilota,llençar,caixa
+allibera la bola, si us plau.	deixar,pilota
+recull la pilota i allibera-la sobre la taula!	agafar,pilota,deixar,pilota
+Si us plau, recull el contenidor.	agafar,caixa
+pren la bola i llança-la!	agafar,pilota,llençar,pilota
+tira la caixa i agafa la esfera!	llençar,caixa,agafar,pilota
+La capsa, allibera-la i La bola, agafa-la!	deixar,caixa,agafar,pilota
+deixes la capsa i llences la esfera?	deixar,caixa,llençar,pilota
+llança la esfera i allibera-la.	llençar,pilota,deixar,pilota
+llança la pilota i solta-la a terra.	llençar,pilota,deixar,pilota
+prens la capsa i deixes la esfera?	agafar,caixa,deixar,pilota
+deixa la caixa i tira-la a terra.	deixar,caixa,llençar,caixa
+deixes la esfera i tíres el contenidor, si us plau?	deixar,pilota,llençar,caixa
+La bola, agafa-la i La capsa, agafa-la.	agafar,pilota,agafar,caixa
+Podries tira la capsa i recollir la esfera?	llençar,caixa,agafar,pilota
+Pots agafar la pilota i solta la caixa, si us plau?	agafar,pilota,deixar,caixa
+allibera la capsa i recull la bola sobre la taula, si us plau!	deixar,caixa,agafar,pilota
+La esfera, llança-la i La contenidor, llança-la, si us plau!	llençar,pilota,llençar,caixa
+Si us plau, agafa la bola i allibera el contenidor a terra.	agafar,pilota,deixar,caixa
+Pots allibera la capsa i recollir la bola, si us plau?	deixar,caixa,agafar,pilota
+solta el contenidor i tira-la sobre la taula, si us plau!	deixar,caixa,llençar,caixa
+pren el contenidor i tira-la!	agafar,caixa,llençar,caixa
+Pots tira la capsa?	llençar,caixa
+tira la esfera i pren-la!	llençar,pilota,agafar,pilota
+La esfera, llança-la i La capsa, llança-la, si us plau!	llençar,pilota,llençar,caixa
+allibera el contenidor i pren la esfera a terra!	deixar,caixa,agafar,pilota
+Si us plau, La capsa, pren-la i La esfera, pren-la!	agafar,caixa,agafar,pilota
+Si us plau, Podries deixar la capsa?	deixar,caixa
+La esfera, llança-la i La capsa, allibera-la!	llençar,pilota,deixar,caixa
+tira el contenidor i solta-la.	llençar,caixa,deixar,caixa
+Si us plau, La capsa, llança-la i La pilota, llança-la.	llençar,caixa,llençar,pilota
+tira la esfera i allibera el contenidor.	llençar,pilota,deixar,caixa
+tira la pilota i solta la capsa.	llençar,pilota,deixar,caixa
+solta la caixa i llança-la!	deixar,caixa,llençar,caixa
+Podries agafar la bola, si us plau?	agafar,pilota
+tira la esfera i agafa la caixa sobre la taula.	llençar,pilota,agafar,caixa
+tira el contenidor, si us plau.	llençar,caixa
+agafes la caixa i alliberes la bola?	agafar,caixa,deixar,pilota
+recull la bola sobre la taula i llença la capsa.	agafar,pilota,llençar,caixa
+prens la bola i deixes el contenidor?	agafar,pilota,deixar,caixa
+allibera la bola!	deixar,pilota
+solta la caixa a terra i tira la esfera, si us plau.	deixar,caixa,llençar,pilota
+La contenidor, llença-la i La esfera, solta-la!	llençar,caixa,deixar,pilota
+Si us plau, reculls la esfera i tíres la capsa?	agafar,pilota,llençar,caixa
+Si us plau, Pots llençar la capsa?	llençar,caixa
+Si us plau, tira la esfera i allibera la caixa a terra!	llençar,pilota,deixar,caixa
+La bola, agafa-la i La capsa, deixa-la!	agafar,pilota,deixar,caixa
+Si us plau, recull la caixa i tira-la.	agafar,caixa,llençar,caixa
+allibera la esfera i llança la caixa!	deixar,pilota,llençar,caixa
+solta la bola i llança la caixa, si us plau.	deixar,pilota,llençar,caixa
+allibera la pilota i recull-la!	deixar,pilota,agafar,pilota
+allibera la caixa i recull-la sobre la taula, si us plau.	deixar,caixa,agafar,caixa
+reculls el contenidor i llences la esfera?	agafar,caixa,llençar,pilota
+Podries prendre la bola i tira la caixa?	agafar,pilota,llençar,caixa
+allibera la bola i agafa-la a terra!	deixar,pilota,agafar,pilota
+Podries prendre la caixa i llança la bola?	agafar,caixa,llençar,pilota
+La caixa, solta-la i La pilota, recull-la!	deixar,caixa,agafar,pilota
+La esfera, deixa-la i La contenidor, pren-la.	deixar,pilota,agafar,caixa
+llences la pilota i deixes la caixa?	llençar,pilota,deixar,caixa
+agafes el contenidor i alliberes la esfera?	agafar,caixa,deixar,pilota
+La esfera, solta-la i La caixa, llança-la, si us plau!	deixar,pilota,llençar,caixa
+La bola, pren-la i La capsa, pren-la.	agafar,pilota,agafar,caixa
+Si us plau, solta la bola i agafa la caixa a terra.	deixar,pilota,agafar,caixa
+Podries llençar la capsa, si us plau?	llençar,caixa
+solta la capsa i llança-la sobre la taula!	deixar,caixa,llençar,caixa
+Pots prendre la capsa i tira la pilota?	agafar,caixa,llençar,pilota
+allibera el contenidor i agafa-la sobre la taula, si us plau!	deixar,caixa,agafar,caixa
+allibera la pilota!	deixar,pilota
+prens la esfera?	agafar,pilota
+pren la esfera, si us plau!	agafar,pilota
+allibera la caixa i recull-la a terra.	deixar,caixa,agafar,caixa
+Si us plau, La bola, llença-la i La caixa, llença-la!	llençar,pilota,llençar,caixa
+tira la caixa sobre la taula i solta la esfera.	llençar,caixa,deixar,pilota
