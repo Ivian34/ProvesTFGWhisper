@@ -1,0 +1,11 @@
+agafar caixa,pilota,<|endoftext|>
+llençar caixa,pilota,<|endoftext|>
+deixar caixa,pilota,<|endoftext|>
+caixa agafar,llençar,deixar,<|endoftext|>
+pilota agafar,llençar,deixar,<|endoftext|>
+<|startoftranscript|> <|ca|>
+<|ca|> <|transcribe|>
+<|transcribe|> <|notimestamps|>
+<|notimestamps|> agafar,llençar,deixar,<|endoftext|>
+<|endoftext|> None
+<|startofprev|> agafar,llençar,deixar,<|startoftranscript|>,<|ca|>,<|transcribe|>,<|notimestamps|>,<|endoftext|>     

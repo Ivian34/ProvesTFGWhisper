@@ -7,6 +7,7 @@ from typing import Dict, List, Union
 import torch
 from transformers import WhisperForConditionalGeneration, WhisperProcessor, WhisperFeatureExtractor
 import evaluate
+import numpy as np
 
 ### Tokenizer
 class MyCustomTokenizer(PreTrainedTokenizer):
@@ -101,6 +102,8 @@ class MyCustomTokenizer(PreTrainedTokenizer):
         """
         Converts an ID to its corresponding token.
         """
+        if isinstance(index, np.ndarray):
+            index = int(index.item())
         return self.inv_vocab.get(index)
 
     def convert_tokens_to_string(self, tokens: list) -> str:
@@ -322,3 +325,59 @@ def prepare_dataset(batch, feature_extractor: WhisperFeatureExtractor, myTokeniz
     batch["input_features"] = feature_extractor(audio, sampling_rate=sampling_rate).input_features[0]
     batch["labels"] = myTokenizer(text)
     return batch
+
+
+# Function to create the CRF and apply viterbi algorithm
+def crf(transitions_file, myTokenizer: MyCustomTokenizer, emission_scores: torch.Tensor):
+
+    """
+    transitions_file: path to the transitions file, this file must have the format:
+    state transition1,transition2,...,transitionN
+    where state is the string of the token and transition1,transition2,...,transitionN are the strings of the tokens that can be transitioned from state.
+    """
+
+    log_transition = np.full((myTokenizer.vocab_size, myTokenizer.vocab_size), -np.inf) 
+    with open(transitions_file, "r") as f:
+        for line in f:
+            aux = line.strip().split()
+            node = aux[0]
+            relations = aux[1]
+            node_id = myTokenizer.vocab[node]
+            if relations != "None":
+                relations = relations.split(",")
+                for r in relations:
+                    relations_id = myTokenizer.vocab[r]
+                    log_transition[node_id, relations_id] = 1/len(relations)
+
+    T = emission_scores.shape[0] 
+    N = emission_scores.shape[1]  
+
+    
+    viterbi_score = np.full((T, N), -np.inf)
+    backpointer = np.zeros((T, N), dtype=int)
+
+    viterbi_score[0] = emission_scores[0]
+
+    # Algoritmo Viterbi
+    for t in range(1, T):
+        for j in range(N):  # estado actual
+            max_score = -np.inf
+            arg_max = 0
+            for i in range(N):  # estado anterior
+ 
+                score = viterbi_score[t-1, i] + log_transition[i, j] + emission_scores[t, j]
+                if score > max_score:
+                    max_score = score
+                    arg_max = i
+            viterbi_score[t, j] = max_score
+            backpointer[t, j] = arg_max
+
+    best_path = np.zeros(T, dtype=int)
+    best_path[T-1] = np.argmax(viterbi_score[T-1])
+    for t in range(T-2, -1, -1):
+        best_path[t] = backpointer[t+1, best_path[t+1]]
+
+    decoded_sequence = myTokenizer.decode(best_path.tolist(), skip_special_tokens=True)
+
+    return decoded_sequence
+
