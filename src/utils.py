@@ -228,8 +228,6 @@ def create_my_whisper_model(myTokenizer: MyCustomTokenizer) -> WhisperForConditi
         model.generation_config.task_to_id["transcribe"] = myTokenizer.vocab[myTokenizer.transcribe_token]
         model.generation_config.max_length = max_output_length #importante
 
-        
-
         language = "ca"
         task = "transcribe"
 
@@ -243,12 +241,11 @@ def create_my_whisper_model(myTokenizer: MyCustomTokenizer) -> WhisperForConditi
             tokenized = whisper_tokenizer.tokenize(w)
             t_ids.append(whisper_tokenizer.convert_tokens_to_ids(tokenized))
             t_str.append(tokenized)
-        print(t_str)
-        print(t_ids)
 
         ## whisper's embedding
         whisper_embedding = model.model.decoder.embed_tokens.weight
 
+        #changing the embedding layer to the average of the tokenized words
         my_embedding = []
         for i in range(len(t_ids)):
             sum = torch.zeros(whisper_embedding.shape[1])
@@ -263,7 +260,7 @@ def create_my_whisper_model(myTokenizer: MyCustomTokenizer) -> WhisperForConditi
         #changing the embedding layer
         new_embedding = torch.nn.Embedding(my_embedding.shape[0], my_embedding.shape[1])
         new_embedding.weight.data = my_embedding
-        print(id(model.model.decoder.embed_tokens.weight) == id(model.proj_out.weight)) #weights iguales hay que mantenerlos iguales
+        print("embeding tokens layer and projection layer share the same weights:", id(model.model.decoder.embed_tokens.weight) == id(model.proj_out.weight)) #Mantener la misma referencia
         model.model.decoder.embed_tokens = new_embedding
 
 
@@ -276,13 +273,12 @@ def create_my_whisper_model(myTokenizer: MyCustomTokenizer) -> WhisperForConditi
         model.proj_out.weight.requires_grad = False
         model.proj_out.weight.requires_grad = True
 
-        print(model.proj_out.weight.shape)
-        print(model.model.decoder.embed_tokens.weight.shape)
+        print("shape of embedding tokens layer: ", model.proj_out.weight.shape)
 
         #Important changing the vocab_size from the model's config
         model.config.vocab_size = len(myTokenizer)
 
-        print(model.model.config.vocab_size)
+        print("changing model's config vocab_size:", model.model.config.vocab_size)
 
         ## freezing the encoder
         model.freeze_encoder()

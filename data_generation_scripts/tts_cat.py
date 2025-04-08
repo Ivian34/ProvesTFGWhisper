@@ -20,7 +20,7 @@ batch_size = 1  # Puedes ajustar el tamaño del batch
 sentences_batch = []
 tags_batch = []
 
-with open("generated_phrases.txt", "r", encoding="utf-8") as f:
+with open("./generated_phrases.txt", "r", encoding="utf-8") as f:
     for line in f:
         line = line.strip()
         if not line:
@@ -82,5 +82,5 @@ test_dataset = dataset.select(range(train_size, len(dataset)))
 dataset_dict = DatasetDict({"train": train_dataset, "test": test_dataset})
 
 # Guardar el DatasetDict en disco
-dataset_dict.save_to_disk("Audios/dataset1")
-print("Dataset guardado localmente en 'Audios/dataset1'")
+dataset_dict.save_to_disk("../Audios/dataset1")
+print("Dataset guardado localmente en '../Audios/dataset1'")
