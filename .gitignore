@@ -1,5 +1,6 @@
 /.venv
-/Audios
+Audios/*
+!Audios/.gitkeep
 /whisper-small-ca/runs/
 **/__pycache__/
 temp_dir
