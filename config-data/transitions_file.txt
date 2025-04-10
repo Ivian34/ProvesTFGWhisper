@@ -7,5 +7,5 @@ pilota agafar,llençar,deixar,<|endoftext|>
 <|ca|> <|transcribe|>
 <|transcribe|> <|notimestamps|>
 <|notimestamps|> agafar,llençar,deixar,<|endoftext|>
-<|endoftext|> None
+<|endoftext|> <|endoftext|>
 <|startofprev|> agafar,llençar,deixar,<|startoftranscript|>,<|ca|>,<|transcribe|>,<|notimestamps|>,<|endoftext|>     
