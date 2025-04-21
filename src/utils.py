@@ -8,6 +8,7 @@ import torch
 from transformers import WhisperForConditionalGeneration, WhisperProcessor, WhisperFeatureExtractor
 import evaluate
 import numpy as np
+import math
 
 ### Tokenizer
 class MyCustomTokenizer(PreTrainedTokenizer):
@@ -322,16 +323,8 @@ def prepare_dataset(batch, feature_extractor: WhisperFeatureExtractor, myTokeniz
     batch["labels"] = myTokenizer(text)
     return batch
 
-
-# Function to create the CRF and apply viterbi algorithm
-def crf(transitions_file, myTokenizer: MyCustomTokenizer, emission_scores: torch.Tensor):
-
-    """
-    transitions_file: path to the transitions file, this file must have the format:
-    state transition1,transition2,...,transitionN
-    where state is the string of the token and transition1,transition2,...,transitionN are the strings of the tokens that can be transitioned from state.
-    """
-
+# Function to generate the transition matrix for the CRF and Viterbi algorithm
+def generate_transition_matrix(transitions_file, myTokenizer: MyCustomTokenizer):
     log_transition = np.full((myTokenizer.vocab_size, myTokenizer.vocab_size), -np.inf) 
     with open(transitions_file, "r") as f:
         for line in f:
@@ -343,12 +336,16 @@ def crf(transitions_file, myTokenizer: MyCustomTokenizer, emission_scores: torch
                 relations = relations.split(",")
                 for r in relations:
                     relations_id = myTokenizer.vocab[r]
-                    log_transition[node_id, relations_id] = 1/len(relations)
+                    log_transition[node_id, relations_id] = math.log(1/len(relations))
+
+    return log_transition
+
+# Function to apply viterbi algorithm to the emission scores and the transition matrix, returning the best path decoded
+def viterbi(log_transition: np.ndarray, myTokenizer: MyCustomTokenizer, emission_scores: torch.Tensor):
 
     T = emission_scores.shape[0] 
     N = emission_scores.shape[1]  
-
-    
+   
     viterbi_score = np.full((T, N), -np.inf)
     backpointer = np.zeros((T, N), dtype=int)
 
@@ -376,4 +373,19 @@ def crf(transitions_file, myTokenizer: MyCustomTokenizer, emission_scores: torch
     decoded_sequence = myTokenizer.decode(best_path.tolist(), skip_special_tokens=True)
 
     return decoded_sequence
+
+
+def decode_with_max(emission_scores, myTokenizer: MyCustomTokenizer):
+
+    if hasattr(emission_scores, "cpu"):
+        em_scores = emission_scores.detach().cpu().numpy()
+    else:
+        em_scores = emission_scores
+
+    token_ids = em_scores.argmax(axis=1) 
+
+    decoded_text = myTokenizer.decode(token_ids, skip_special_tokens=True)
+    
+    return decoded_text
+
 
