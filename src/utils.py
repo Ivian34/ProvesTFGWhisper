@@ -326,7 +326,7 @@ def prepare_dataset(batch, feature_extractor: WhisperFeatureExtractor, myTokeniz
 # Function to generate the transition matrix for the CRF and Viterbi algorithm
 def generate_transition_matrix(transitions_file, myTokenizer: MyCustomTokenizer):
     log_transition = np.full((myTokenizer.vocab_size, myTokenizer.vocab_size), -np.inf) 
-    with open(transitions_file, "r") as f:
+    with open(transitions_file, encoding="utf-8") as f:
         for line in f:
             aux = line.strip().split()
             node = aux[0]
